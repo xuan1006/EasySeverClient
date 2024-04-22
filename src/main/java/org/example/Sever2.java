@@ -3,7 +3,6 @@ import java.net.*;
 import java.io.*;
 public class Sever2 {
     public static void main(String[] args) {
-
             try{
                 String user = "learning";
                 String passwd = "678744532";
